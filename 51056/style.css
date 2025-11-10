@@ -2,7 +2,7 @@
     width: 150px;
     height: 150px;
     border: 1px solid black;
-    transition: all;
+    transition: all 0.3s;
     margin: 10px;
 }
 
