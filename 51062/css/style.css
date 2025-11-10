@@ -14,6 +14,7 @@ h2 {
 
 #gallery {
 	width: 1024px;
+	width: 100%;
 	margin: 0 auto;
 	text-align: center;
 }
@@ -34,7 +35,7 @@ figure img{
 	border: 2px solid #444;
 }
 
-@media screen and (max-width: 992p) {
+@media screen and (max-width: 992px) {
 	figure {
 		width: 49%;
 	}
